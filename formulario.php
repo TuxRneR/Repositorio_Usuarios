@@ -29,7 +29,7 @@ include 'class.php';
                     <input type="text" name="apellidos" placeholder="Apellidos">
                 </div>
             </div>
-            <div class="row">
+            <div class="row pt-25">
                     <input type="submit" value="Enviar">
             </div>
         </form>

@@ -28,6 +28,10 @@
   input[type=submit]:hover {
     background-color: #88a045;
   }
+
+  .pt-25{
+    padding-top: 25px;
+  }
   
   .container {
     border-radius: 5px;
